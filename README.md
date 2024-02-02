@@ -25,5 +25,7 @@ O jogo Tetris nasceu na antiga URSS, em junho de 1984, e foi desenvolvido pelo c
   <img src="https://i.imgur.com/5ZDnfIq.png"> 
   <img src="https://i.imgur.com/DHLh1Jj.png"> 
   <img src="https://i.imgur.com/1ianVzM.png"> 
-  
+
+
+by: @ClaudioABittencourt
   
